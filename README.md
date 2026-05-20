@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: me@vitordegrecci.dev
 
-> Some hot takes: tabs > spaces | dark mode only | a good playlist solves 80% of problems | I will spend 3 hours automating a 5-minute task and feel great about it | I have 47 browser tabs open and I know exactly what each one is for
+\> Some hot takes: tabs > spaces | dark mode only | a good playlist solves 80% of problems | I will spend 3 hours automating a 5-minute task and feel great about it | I have 47 browser tabs open and I know exactly what each one is for
 
-> Pronouns: He/Him/His
+\> Pronouns: He/Him/His
