@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Vitor—a developer focused on building accessible solutions that empower people to create and deploy technology without unnecessary barriers.
+I'm Vitor-a computer scientist and software developer focused on building accessible solutions that empower people to create and deploy technology without unnecessary barriers.
 
 ### What I'm into
 
@@ -10,7 +10,7 @@ Right now, I'm diving into **Generative AI and LLMs**, especially how they can b
 
 ### What drives me
 
-I genuinely enjoy helping others solve problems. Whether it's code review, debugging, architecture discussion, or just talking through ideas, I'm here for it. I find collaboration energizing—especially on projects that actually make a difference in people's lives.
+I genuinely enjoy helping others solve problems. Whether it's code review, debugging, architecture discussion, or just talking through ideas, I'm here for it. I find collaboration energizing — especially on projects that actually make a difference in people's lives.
 
 ### Let's connect
 
@@ -26,3 +26,5 @@ I genuinely enjoy helping others solve problems. Whether it's code review, debug
 - Perpetually has 47 browser tabs open
 
 **Pronouns:** He/Him/His
+
+**Languages:** English/Portuguese/Spanish
